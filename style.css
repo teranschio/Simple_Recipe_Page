@@ -15,6 +15,10 @@ body {
   background-color:#f3e5d8;
 }
 
+body > div{
+  background-color:white;
+}
+
 h1,
 h2,
 h3 {
@@ -122,5 +126,6 @@ ol li::marker {
     width: 50%;
   }
 }
+
 
 
