@@ -12,6 +12,7 @@ html {
 
 body {
   font-family: "Outfit", sans-serif;
+  background-color:#f3e5d8;
 }
 
 h1,
@@ -120,3 +121,4 @@ ol li::marker {
     width: 50%;
   }
 }
+
